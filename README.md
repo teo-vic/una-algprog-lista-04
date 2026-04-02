@@ -7,5 +7,5 @@
 - 📄 [Exercício 6 - Umavinte.java](./Umavinte.java)
 - 📄 [Exercício 7 - MaiorN.java](./MaiorN.java)
 - 📄 [Exercício 8 - Somaemedia.java](./Somaemedia.java)
-- 📄 [Exercício 9 - Impar.java](./Impar.java)
+- 📄 [Exercício 9 - Impar.java](./Ímpar.java)
 - 📄 [Exercício 10 - Entredois.java](./Entredois.java)
